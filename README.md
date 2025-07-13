@@ -60,5 +60,6 @@ Project inspired by Mo Chen’s Excel Analytics tutorial on YouTube. Extended wi
 ---
 
 ## 🔗 Connect with Me
-- LinkedIn: [Your LinkedIn Profile URL]
+- LinkedIn: www.linkedin.com/in/raashid-ahmed-r-a285a6276
+
 - GitHub: [Your GitHub Profile URL]
